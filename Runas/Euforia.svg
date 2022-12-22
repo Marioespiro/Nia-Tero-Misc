@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500.09818"
+   height="427.64035"
+   viewBox="0 0 132.31764 113.14651"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="Euforia.svg"
+   inkscape:export-xdpi="112.24385"
+   inkscape:export-ydpi="112.24385"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     borderlayer="true"
+     shape-rendering="auto"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="0.0003577095,132.28992"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide357" />
+    <sodipodi:guide
+       position="0.0003577095,66.144083"
+       orientation="0,250.00001"
+       inkscape:locked="true"
+       id="guide359" />
+    <sodipodi:guide
+       position="66.146194,66.144083"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide361" />
+    <sodipodi:guide
+       position="66.146194,132.28992"
+       orientation="0,-250.00001"
+       inkscape:locked="true"
+       id="guide363" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Euforia"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.01447488,-8.1953037)">
+    <path
+       style="color:#000000;fill:#503a30;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 66.367187,8.1953125 A 3.7034853,3.7034853 0 0 0 63.175781,10.005859 L 0.53320312,115.50391 a 3.7034853,3.7034853 0 0 0 3.17773438,5.59375 L 128.62109,121.3418 a 3.7034853,3.7034853 0 0 0 3.19922,-5.58203 L 69.550781,10.017578 A 3.7034853,3.7034853 0 0 0 66.367187,8.1953125 Z m -0.01953,10.9785155 55.794923,94.750002 -111.925782,-0.2207 z"
+       id="path7245" />
+  </g>
+</svg>
