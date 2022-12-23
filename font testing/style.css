@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Runescript';
-  src:  url('../fonts/Runescript.eot?is9mop');
-  src:  url('../fonts/Runescript.eot?is9mop#iefix') format('embedded-opentype'),
-    url('../fonts/Runescript.ttf?is9mop') format('truetype'),
-    url('../fonts/Runescript.woff?is9mop') format('woff'),
-    url('../fonts/Runescript.svg?is9mop#Runescript') format('svg');
+  font-family: 'NiaRunes';
+  src:  url('../fonts/NiaRunes.eot?is9mop');
+  src:  url('../fonts/NiaRunes.eot?is9mop#iefix') format('embedded-opentype'),
+    url('../fonts/NiaRunes.ttf?is9mop') format('truetype'),
+    url('../fonts/NiaRunes.woff?is9mop') format('woff'),
+    url('../fonts/NiaRunes.svg?is9mop#NiaRunes') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="runes-"], [class*=" runes-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Runescript' !important;
+  font-family: 'NiaRunes' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
